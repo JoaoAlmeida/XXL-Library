@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/concurrency
+END
+MutableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/concurrency/MutableObject.java
+END
+Semaphore.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/concurrency/Semaphore.java
+END
+AsynchronousChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/concurrency/AsynchronousChannel.java
+END
+MutableInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/concurrency/MutableInt.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/concurrency/Channel.java
+END
+MutableBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/concurrency/MutableBoolean.java
+END

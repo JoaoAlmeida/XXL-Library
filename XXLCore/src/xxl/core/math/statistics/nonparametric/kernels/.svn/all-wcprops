@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels
+END
+HybridKernelCDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/HybridKernelCDF.java
+END
+KernelBasedBlockEstimatorAggregationFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/KernelBasedBlockEstimatorAggregationFunction.java
+END
+HybridKernelBasedBlockEstimatorAggregationFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/HybridKernelBasedBlockEstimatorAggregationFunction.java
+END
+Kernels.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/Kernels.java
+END
+BiweightKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/BiweightKernel.java
+END
+NativeKernelCDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/NativeKernelCDF.java
+END
+TriweightKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/TriweightKernel.java
+END
+KernelFunctionND.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/KernelFunctionND.java
+END
+ReflectionKernelCDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/ReflectionKernelCDF.java
+END
+HybridKernelDensityEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/HybridKernelDensityEstimator.java
+END
+GaussianKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/GaussianKernel.java
+END
+EpanechnikowKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/EpanechnikowKernel.java
+END
+CosineArchKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/CosineArchKernel.java
+END
+NativeKernelDensityEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/NativeKernelDensityEstimator.java
+END
+UniformKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/UniformKernel.java
+END
+AbstractKernelCDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/AbstractKernelCDF.java
+END
+DifferenceKernelEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/DifferenceKernelEstimator.java
+END
+ReflectionKernelDensityEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/ReflectionKernelDensityEstimator.java
+END
+AdaBandKernelDensityEstimatorND.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/AdaBandKernelDensityEstimatorND.java
+END
+KernelFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/KernelFunction.java
+END
+ProductKernelFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/ProductKernelFunction.java
+END
+KernelBandwidths.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/KernelBandwidths.java
+END
+TransformedKernelFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/TransformedKernelFunction.java
+END
+AbstractKernelDensityEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/kernels/AbstractKernelDensityEstimator.java
+END

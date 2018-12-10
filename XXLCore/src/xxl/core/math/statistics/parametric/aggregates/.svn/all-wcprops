@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates
+END
+StandardDeviation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/StandardDeviation.java
+END
+Sum.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/Sum.java
+END
+NumericalAggregateND.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/NumericalAggregateND.java
+END
+LastNthAverage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/LastNthAverage.java
+END
+Average.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/Average.java
+END
+Minimum.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/Minimum.java
+END
+ConfidenceAggregationFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/ConfidenceAggregationFunction.java
+END
+Maximum.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/Maximum.java
+END
+VarianceEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/VarianceEstimator.java
+END
+LastN.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/LastN.java
+END
+CountAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/CountAll.java
+END
+ReservoirSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/ReservoirSample.java
+END
+NumberOfRuns.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/NumberOfRuns.java
+END
+FourthCentralMomentEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/FourthCentralMomentEstimator.java
+END
+Count.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/Count.java
+END
+Variance.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/Variance.java
+END
+StandardDeviationEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/StandardDeviationEstimator.java
+END
+ThirdCentralMomentEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/ThirdCentralMomentEstimator.java
+END
+OnlineAggregation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/OnlineAggregation.java
+END
+SumEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/SumEstimator.java
+END
+DistinctAggregateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/parametric/aggregates/DistinctAggregateFunction.java
+END

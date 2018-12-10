@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io
+END
+RandomAccessFileOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/RandomAccessFileOutputStream.java
+END
+MultiBlockInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/MultiBlockInputStream.java
+END
+Convertable.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/Convertable.java
+END
+BufferedRandomAccessFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/BufferedRandomAccessFile.java
+END
+IOCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/IOCounter.java
+END
+LinkedContainerBlocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/LinkedContainerBlocks.java
+END
+NullOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/NullOutputStream.java
+END
+ReplaceOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/ReplaceOutputStream.java
+END
+Buffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/Buffer.java
+END
+CounterInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/CounterInputStream.java
+END
+CounterOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/CounterOutputStream.java
+END
+BufferedOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/BufferedOutputStream.java
+END
+BlockFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/BlockFactory.java
+END
+ObjectToBlockCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/ObjectToBlockCursor.java
+END
+DataInputInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/DataInputInputStream.java
+END
+IteratorInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/IteratorInputStream.java
+END
+DataOutputOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/DataOutputOutputStream.java
+END
+Convertables.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/Convertables.java
+END
+FilesystemOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/FilesystemOperations.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/Block.java
+END
+JavaFilesystemOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/JavaFilesystemOperations.java
+END
+LogFilesystemOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/LogFilesystemOperations.java
+END
+ByteArrayConversions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/ByteArrayConversions.java
+END
+LRUBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/LRUBuffer.java
+END
+InputStreams.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/InputStreams.java
+END
+RandomAccessFileInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/RandomAccessFileInputStream.java
+END

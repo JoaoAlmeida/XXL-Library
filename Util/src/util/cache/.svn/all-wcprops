@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/joao/!svn/ver/1202/projects/Util/trunk/src/util/cache
+END
+MinHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/joao/!svn/ver/1202/projects/Util/trunk/src/util/cache/MinHeap.java
+END
+CacheItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/joao/!svn/ver/1010/projects/Util/trunk/src/util/cache/CacheItem.java
+END
+InverseComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/joao/!svn/ver/417/projects/Util/trunk/src/util/cache/InverseComparator.java
+END
+MaxHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/joao/!svn/ver/1202/projects/Util/trunk/src/util/cache/MaxHeap.java
+END
+CacheLRU.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/joao/!svn/ver/1010/projects/Util/trunk/src/util/cache/CacheLRU.java
+END
+BoundedHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/joao/!svn/ver/422/projects/Util/trunk/src/util/cache/BoundedHeap.java
+END

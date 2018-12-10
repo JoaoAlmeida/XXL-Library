@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates
+END
+Not.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/Not.java
+END
+MetaDataPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/MetaDataPredicate.java
+END
+And.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/And.java
+END
+DecoratorPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/DecoratorPredicate.java
+END
+EveryNth.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/EveryNth.java
+END
+BinaryPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/BinaryPredicate.java
+END
+FunctionPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/FunctionPredicate.java
+END
+Equal.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/Equal.java
+END
+Xor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/Xor.java
+END
+AnyPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/AnyPredicate.java
+END
+RightBind.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/RightBind.java
+END
+FeaturePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/FeaturePredicate.java
+END
+DistanceWithin.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/DistanceWithin.java
+END
+ExistPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/ExistPredicate.java
+END
+Or.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/Or.java
+END
+GreaterEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/GreaterEqual.java
+END
+Predicates.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/Predicates.java
+END
+LeftBind.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/LeftBind.java
+END
+NotEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/NotEqual.java
+END
+ComparatorPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/ComparatorPredicate.java
+END
+Greater.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/Greater.java
+END
+ProjectionPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/ProjectionPredicate.java
+END
+ComparatorBasedEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/ComparatorBasedEqual.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/Predicate.java
+END
+Less.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/Less.java
+END
+Indicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/Indicator.java
+END
+InputStreamEqualPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/InputStreamEqualPredicate.java
+END
+EqualReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/EqualReference.java
+END
+AllPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/AllPredicate.java
+END
+BindingPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/BindingPredicate.java
+END
+LessEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/predicates/LessEqual.java
+END

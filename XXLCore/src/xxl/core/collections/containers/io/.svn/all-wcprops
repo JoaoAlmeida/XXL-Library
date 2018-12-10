@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/containers/io
+END
+BufferedContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/containers/io/BufferedContainer.java
+END
+MultiBlockContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/containers/io/MultiBlockContainer.java
+END
+ConverterContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/containers/io/ConverterContainer.java
+END
+BlockFileContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/containers/io/BlockFileContainer.java
+END

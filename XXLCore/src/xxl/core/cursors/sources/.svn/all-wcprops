@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources
+END
+ContinuousRandomNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/ContinuousRandomNumber.java
+END
+Enumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/Enumerator.java
+END
+RandomIntegers.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/RandomIntegers.java
+END
+Permutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/Permutator.java
+END
+SingleObjectCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/SingleObjectCursor.java
+END
+Inductor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/Inductor.java
+END
+Repeater.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/Repeater.java
+END
+Inductors.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/Inductors.java
+END
+ArrayCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/ArrayCursor.java
+END
+DiscreteRandomNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/DiscreteRandomNumber.java
+END
+EmptyCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/EmptyCursor.java
+END

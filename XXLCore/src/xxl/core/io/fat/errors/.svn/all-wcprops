@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/errors
+END
+NotEnoughMemory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/errors/NotEnoughMemory.java
+END
+NotFSISector.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/errors/NotFSISector.java
+END
+DirectoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/errors/DirectoryException.java
+END
+InvalidValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/errors/InvalidValue.java
+END
+InitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/errors/InitializationException.java
+END
+FileDoesntExist.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/errors/FileDoesntExist.java
+END
+WrongFATType.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/errors/WrongFATType.java
+END
+IllegalName.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/errors/IllegalName.java
+END
+NameAllreadyExists.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/errors/NameAllreadyExists.java
+END
+WrongLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/errors/WrongLength.java
+END

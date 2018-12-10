@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw
+END
+NativeRawAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw/NativeRawAccess.java
+END
+RawAccessArrayFilesystemOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw/RawAccessArrayFilesystemOperations.java
+END
+RAFRawAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw/RAFRawAccess.java
+END
+RawAccessRAF.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw/RawAccessRAF.java
+END
+PartitionRawAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw/PartitionRawAccess.java
+END
+RawAccessError.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw/RawAccessError.java
+END
+StatisticsRawAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw/StatisticsRawAccess.java
+END
+RAMRawAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw/RAMRawAccess.java
+END
+RawAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw/RawAccess.java
+END
+RawAccessLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw/RawAccessLogger.java
+END
+RawAccessUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/raw/RawAccessUtils.java
+END

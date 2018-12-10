@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters
+END
+DoubleArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/DoubleArrayConverter.java
+END
+SizeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/SizeConverter.java
+END
+DoubleConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/DoubleConverter.java
+END
+AsciiStringConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/AsciiStringConverter.java
+END
+BooleanConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/BooleanConverter.java
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/Converter.java
+END
+BigDecimalConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/BigDecimalConverter.java
+END
+CharacterArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/CharacterArrayConverter.java
+END
+CharacterConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/CharacterConverter.java
+END
+IntegerConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/IntegerConverter.java
+END
+ShortConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/ShortConverter.java
+END
+LongConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/LongConverter.java
+END
+StringBufferConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/StringBufferConverter.java
+END
+Converters.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/Converters.java
+END
+ByteConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/ByteConverter.java
+END
+StringArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/StringArrayConverter.java
+END
+ObjectArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/ObjectArrayConverter.java
+END
+FloatConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/FloatConverter.java
+END
+SerializableConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/SerializableConverter.java
+END
+StringConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/StringConverter.java
+END
+BooleanArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/BooleanArrayConverter.java
+END
+UniformConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/UniformConverter.java
+END
+BlockZipDecoratorConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/BlockZipDecoratorConverter.java
+END
+ByteArrayZipConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/ByteArrayZipConverter.java
+END
+AsciiConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/AsciiConverter.java
+END
+MultiConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/MultiConverter.java
+END
+FixedSizeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/FixedSizeConverter.java
+END
+IntegerArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/IntegerArrayConverter.java
+END
+ShortArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/ShortArrayConverter.java
+END
+LongArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/LongArrayConverter.java
+END
+ByteArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/ByteArrayConverter.java
+END
+FloatArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/FloatArrayConverter.java
+END
+ConvertableConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/ConvertableConverter.java
+END
+MeasuredConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/converters/MeasuredConverter.java
+END

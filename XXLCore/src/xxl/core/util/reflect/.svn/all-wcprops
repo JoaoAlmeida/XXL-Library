@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/reflect
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/reflect/Logger.java
+END
+SynchronizedWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/reflect/SynchronizedWrapper.java
+END
+SocketProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/reflect/SocketProxy.java
+END
+Reflections.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/reflect/Reflections.java
+END
+TestFramework.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/reflect/TestFramework.java
+END

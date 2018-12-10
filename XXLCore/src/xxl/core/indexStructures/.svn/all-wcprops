@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/joao/!svn/ver/687/projects/XXLCore/trunk/src/xxl/core/indexStructures
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/Tree.java
+END
+Separator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/Separator.java
+END
+ORTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/ORTree.java
+END
+Descriptors.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/687/projects/XXLCore/trunk/src/xxl/core/indexStructures/Descriptors.java
+END
+BTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/BTree.java
+END
+SortBasedBulkLoading.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/SortBasedBulkLoading.java
+END
+QueryCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/QueryCursor.java
+END
+BPlusTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/BPlusTree.java
+END
+MTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/MTree.java
+END
+LinearRTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/LinearRTree.java
+END
+Descriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/Descriptor.java
+END
+QuadraticRTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/QuadraticRTree.java
+END
+RTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/RTree.java
+END
+SlimTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/SlimTree.java
+END
+MultiDiskBTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/MultiDiskBTree.java
+END
+XTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/XTree.java
+END
+GreenesRTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/indexStructures/GreenesRTree.java
+END

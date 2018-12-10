@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/filters
+END
+Remover.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/filters/Remover.java
+END
+WhileTaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/filters/WhileTaker.java
+END
+Sampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/filters/Sampler.java
+END
+WhileDropper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/filters/WhileDropper.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/filters/Filter.java
+END
+Taker.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/filters/Taker.java
+END
+WhileRemover.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/filters/WhileRemover.java
+END
+Dropper.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/filters/Dropper.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/timers
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/timers/Timer.java
+END
+JNITimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/timers/JNITimer.java
+END
+TimerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/timers/TimerUtils.java
+END
+JavaTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/timers/JavaTimer.java
+END
+StopWatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/timers/StopWatch.java
+END

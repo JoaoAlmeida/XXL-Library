@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/identities
+END
+LoggingMetaDataCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/identities/LoggingMetaDataCursor.java
+END
+ThreadedIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/identities/ThreadedIterator.java
+END
+TeeCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/identities/TeeCursor.java
+END
+DelayCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/identities/DelayCursor.java
+END
+UnmodifiableCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/identities/UnmodifiableCursor.java
+END

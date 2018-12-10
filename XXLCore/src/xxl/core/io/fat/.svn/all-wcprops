@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat
+END
+ExtendedFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/ExtendedFile.java
+END
+DirectoryDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/DirectoryDate.java
+END
+BPB.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/BPB.java
+END
+FAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/FAT.java
+END
+DIR.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/DIR.java
+END
+ListEntriesIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/ListEntriesIterator.java
+END
+FSI.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/FSI.java
+END
+FATFilesystemOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/FATFilesystemOperations.java
+END
+ExtendedRandomAccessFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/ExtendedRandomAccessFile.java
+END
+DirectoryTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/DirectoryTime.java
+END
+ListClusterChainEntriesIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/ListClusterChainEntriesIterator.java
+END
+FileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/FileSystem.java
+END
+EntriesFilterIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/EntriesFilterIterator.java
+END
+FATDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/FATDevice.java
+END
+DirectoryEntryInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/DirectoryEntryInformation.java
+END
+ClusterChainIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/io/fat/ClusterChainIterator.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util
+END
+ObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/ObjectPool.java
+END
+Arrays.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/Arrays.java
+END
+IntervalND.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/IntervalND.java
+END
+Interval1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/Interval1D.java
+END
+WrappingRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/WrappingRuntimeException.java
+END
+AbstractTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/AbstractTuple.java
+END
+ConvertableTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/ConvertableTuple.java
+END
+XXLSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/XXLSystem.java
+END
+Classifiable.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/Classifiable.java
+END
+ArrayResizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/ArrayResizer.java
+END
+LongIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/LongIdGenerator.java
+END
+DatabaseAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/DatabaseAccess.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/Tuple.java
+END
+Strings.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/Strings.java
+END
+BitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/BitSet.java
+END
+Distance.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/Distance.java
+END
+MetaDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/MetaDataProvider.java
+END
+DoubleArrays.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/DoubleArrays.java
+END
+DistanceTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/DistanceTo.java
+END

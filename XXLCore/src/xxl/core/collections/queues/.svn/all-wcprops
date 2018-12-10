@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues
+END
+UnmodifiableQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/UnmodifiableQueue.java
+END
+Queues.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/Queues.java
+END
+AbstractQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/AbstractQueue.java
+END
+StackQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/StackQueue.java
+END
+ThreadsafeQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/ThreadsafeQueue.java
+END
+Heap.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/Heap.java
+END
+ListQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/ListQueue.java
+END
+DynamicHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/DynamicHeap.java
+END
+ArrayQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/ArrayQueue.java
+END
+Queue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/Queue.java
+END
+BoundedQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/BoundedQueue.java
+END
+DistinctQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/DistinctQueue.java
+END
+DecoratorQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/DecoratorQueue.java
+END
+FIFOQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/FIFOQueue.java
+END
+LIFOQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/queues/LIFOQueue.java
+END

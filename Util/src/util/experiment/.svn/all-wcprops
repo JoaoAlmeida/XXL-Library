@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/joao/!svn/ver/1481/projects/Util/trunk/src/util/experiment
+END
+ExperimentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/407/projects/Util/trunk/src/util/experiment/ExperimentException.java
+END
+ExperimentResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/1010/projects/Util/trunk/src/util/experiment/ExperimentResult.java
+END
+DefaultExperimentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/1481/projects/Util/trunk/src/util/experiment/DefaultExperimentManager.java
+END
+Experiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/joao/!svn/ver/1481/projects/Util/trunk/src/util/experiment/Experiment.java
+END
+StringExperimentResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/1010/projects/Util/trunk/src/util/experiment/StringExperimentResult.java
+END
+ExperimentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/420/projects/Util/trunk/src/util/experiment/ExperimentFactory.java
+END
+ExperimentRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/1481/projects/Util/trunk/src/util/experiment/ExperimentRunner.java
+END
+ExperimentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/679/projects/Util/trunk/src/util/experiment/ExperimentManager.java
+END

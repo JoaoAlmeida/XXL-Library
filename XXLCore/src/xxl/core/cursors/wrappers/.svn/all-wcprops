@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/wrappers
+END
+IteratorEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/wrappers/IteratorEnumeration.java
+END
+QueueCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/wrappers/QueueCursor.java
+END
+EnumerationCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/wrappers/EnumerationCursor.java
+END
+IteratorCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/wrappers/IteratorCursor.java
+END

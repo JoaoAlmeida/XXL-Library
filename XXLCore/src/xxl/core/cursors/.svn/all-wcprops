@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors
+END
+Subquery.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/Subquery.java
+END
+Cursors.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/Cursors.java
+END
+DecoratorCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/DecoratorCursor.java
+END
+AbstractCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/AbstractCursor.java
+END
+AbstractMetaDataCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/AbstractMetaDataCursor.java
+END
+ResetableCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/ResetableCursor.java
+END
+SecureDecoratorCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/SecureDecoratorCursor.java
+END
+Cursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/Cursor.java
+END
+MetaDataCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/MetaDataCursor.java
+END
+ObservableIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/ObservableIterator.java
+END

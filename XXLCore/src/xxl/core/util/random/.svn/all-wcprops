@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/random
+END
+InversionDistributionBasedPRNG.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/random/InversionDistributionBasedPRNG.java
+END
+DiscreteRandomWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/random/DiscreteRandomWrapper.java
+END
+JavaDiscreteRandomWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/random/JavaDiscreteRandomWrapper.java
+END
+ContinuousRandomWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/random/ContinuousRandomWrapper.java
+END
+RejectionDistributionBasedPRNG.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/random/RejectionDistributionBasedPRNG.java
+END
+JavaContinuousRandomWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/util/random/JavaContinuousRandomWrapper.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/numerics/integration
+END
+SimpsonsRuleRealFunctionArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/numerics/integration/SimpsonsRuleRealFunctionArea.java
+END
+TrapezoidalRuleRealFunctionArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/numerics/integration/TrapezoidalRuleRealFunctionArea.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/comparators
+END
+DistanceBasedComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/comparators/DistanceBasedComparator.java
+END
+FeatureComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/comparators/FeatureComparator.java
+END
+InverseComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/comparators/InverseComparator.java
+END
+EmbeddingComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/comparators/EmbeddingComparator.java
+END
+LexicographicalComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/comparators/LexicographicalComparator.java
+END
+Comparators.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/comparators/Comparators.java
+END
+ComparableComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/comparators/ComparableComparator.java
+END

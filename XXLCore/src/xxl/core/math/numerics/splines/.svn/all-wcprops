@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/numerics/splines
+END
+CubicBezierSpline.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/numerics/splines/CubicBezierSpline.java
+END
+RB1CubicBezierSpline.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/numerics/splines/RB1CubicBezierSpline.java
+END
+RB2CubicBezierSpline.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/numerics/splines/RB2CubicBezierSpline.java
+END

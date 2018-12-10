@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/metaData
+END
+MergedResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/metaData/MergedResultSetMetaData.java
+END
+MetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/metaData/MetaData.java
+END
+AssembledResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/metaData/AssembledResultSetMetaData.java
+END
+AppendedResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/metaData/AppendedResultSetMetaData.java
+END
+ProjectionMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/metaData/ProjectionMetaData.java
+END
+WrappedResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/metaData/WrappedResultSetMetaData.java
+END

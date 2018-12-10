@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/joao/!svn/ver/1670/projects/Util/trunk/src/util/tuples
+END
+Cell.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/joao/!svn/ver/777/projects/Util/trunk/src/util/tuples/Cell.java
+END
+FileTupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/joao/!svn/ver/1667/projects/Util/trunk/src/util/tuples/FileTupleFactory.java
+END
+TupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/joao/!svn/ver/777/projects/Util/trunk/src/util/tuples/TupleFactory.java
+END
+UniformTupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/777/projects/Util/trunk/src/util/tuples/UniformTupleFactory.java
+END
+AntiCorrelatedTupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/777/projects/Util/trunk/src/util/tuples/AntiCorrelatedTupleFactory.java
+END
+ClusterTupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/1666/projects/Util/trunk/src/util/tuples/ClusterTupleFactory.java
+END
+CorrelatedTupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/joao/!svn/ver/777/projects/Util/trunk/src/util/tuples/CorrelatedTupleFactory.java
+END
+DefaultTupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/1670/projects/Util/trunk/src/util/tuples/DefaultTupleFactory.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/joao/!svn/ver/1666/projects/Util/trunk/src/util/tuples/Tuple.java
+END
+Plotter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/joao/!svn/ver/1670/projects/Util/trunk/src/util/tuples/Plotter.java
+END

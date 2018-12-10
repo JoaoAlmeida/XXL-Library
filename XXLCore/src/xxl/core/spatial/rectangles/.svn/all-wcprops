@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/spatial/rectangles
+END
+FloatPointRectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/spatial/rectangles/FloatPointRectangle.java
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/spatial/rectangles/Rectangle.java
+END
+RandomRectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/spatial/rectangles/RandomRectangle.java
+END
+Rectangles.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/spatial/rectangles/Rectangles.java
+END
+DoublePointRectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/spatial/rectangles/DoublePointRectangle.java
+END
+FixedPointRectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/spatial/rectangles/FixedPointRectangle.java
+END

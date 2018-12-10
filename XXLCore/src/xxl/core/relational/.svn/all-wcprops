@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational
+END
+JoinUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/JoinUtils.java
+END
+TupleConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/TupleConverter.java
+END
+ListTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/ListTuple.java
+END
+ArrayTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/ArrayTuple.java
+END
+MetaDataCursorResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/MetaDataCursorResultSet.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/Tuple.java
+END
+Tuples.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/Tuples.java
+END
+AbstractTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/AbstractTuple.java
+END
+DecoratorResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/DecoratorResultSet.java
+END
+ResultSets.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/ResultSets.java
+END
+AbstractResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/AbstractResultSet.java
+END
+VirtualTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/relational/VirtualTable.java
+END

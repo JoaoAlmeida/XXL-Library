@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/queries
+END
+PointQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/queries/PointQuery.java
+END
+RangeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/queries/RangeQuery.java
+END
+QueryFeedbackSelectivityEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/queries/QueryFeedbackSelectivityEstimator.java
+END
+WindowQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/queries/WindowQuery.java
+END

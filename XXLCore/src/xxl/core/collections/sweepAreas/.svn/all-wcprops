@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/sweepAreas
+END
+HashListSAImplementor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/sweepAreas/HashListSAImplementor.java
+END
+ListSA.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/sweepAreas/ListSA.java
+END
+SortMergeEquiJoinSA.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/sweepAreas/SortMergeEquiJoinSA.java
+END
+AbstractSAImplementor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/sweepAreas/AbstractSAImplementor.java
+END
+SweepAreaImplementor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/sweepAreas/SweepAreaImplementor.java
+END
+BagSAImplementor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/sweepAreas/BagSAImplementor.java
+END
+ListSAImplementor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/sweepAreas/ListSAImplementor.java
+END
+SweepArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/collections/sweepAreas/SweepArea.java
+END

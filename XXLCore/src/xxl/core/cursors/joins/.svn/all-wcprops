@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/joins
+END
+NestedLoopsJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/joins/NestedLoopsJoin.java
+END
+MultiWaySortMergeJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/joins/MultiWaySortMergeJoin.java
+END
+SortMergeJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/joins/SortMergeJoin.java
+END
+SortMergeEquivalenceJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/joins/SortMergeEquivalenceJoin.java
+END

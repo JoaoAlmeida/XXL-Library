@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/aggregates
+END
+EmpiricalCDFAggregateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/aggregates/EmpiricalCDFAggregateFunction.java
+END
+NativeKernelCDFAggregateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/aggregates/NativeKernelCDFAggregateFunction.java
+END
+RKDEAggregateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/aggregates/RKDEAggregateFunction.java
+END
+Aggregators.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/aggregates/Aggregators.java
+END
+ReflectionKernelCDFAggregateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/aggregates/ReflectionKernelCDFAggregateFunction.java
+END
+HybridKernelCDFAggregateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/aggregates/HybridKernelCDFAggregateFunction.java
+END
+NKDEAggregateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/statistics/nonparametric/aggregates/NKDEAggregateFunction.java
+END

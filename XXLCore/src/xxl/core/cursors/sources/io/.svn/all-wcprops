@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/io
+END
+URLInputCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/io/URLInputCursor.java
+END
+ZipFileInputCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/io/ZipFileInputCursor.java
+END
+ChannelCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/io/ChannelCursor.java
+END
+InputStreamCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/io/InputStreamCursor.java
+END
+FileInputCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/io/FileInputCursor.java
+END
+FileNameCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/sources/io/FileNameCursor.java
+END

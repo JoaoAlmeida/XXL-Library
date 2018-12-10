@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/joao/!svn/ver/1164/projects/Util/trunk/src/util/rtree
+END
+StorageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/joao/!svn/ver/928/projects/Util/trunk/src/util/rtree/StorageManager.java
+END
+RTreeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/joao/!svn/ver/928/projects/Util/trunk/src/util/rtree/RTreeException.java
+END
+Entry.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/joao/!svn/ver/928/projects/Util/trunk/src/util/rtree/Entry.java
+END
+RTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/joao/!svn/ver/973/projects/Util/trunk/src/util/rtree/RTree.java
+END
+AggField.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/joao/!svn/ver/928/projects/Util/trunk/src/util/rtree/AggField.java
+END
+DiskBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/joao/!svn/ver/1164/projects/Util/trunk/src/util/rtree/DiskBuffer.java
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/joao/!svn/ver/928/projects/Util/trunk/src/util/rtree/Rectangle.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/joao/!svn/ver/928/projects/Util/trunk/src/util/rtree/Node.java
+END
+MemoryStorageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/joao/!svn/ver/928/projects/Util/trunk/src/util/rtree/MemoryStorageManager.java
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/joao/!svn/ver/928/projects/Util/trunk/src/util/rtree/Point.java
+END
+DiskStorageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/joao/!svn/ver/928/projects/Util/trunk/src/util/rtree/DiskStorageManager.java
+END
+LinearRTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/joao/!svn/ver/928/projects/Util/trunk/src/util/rtree/LinearRTree.java
+END

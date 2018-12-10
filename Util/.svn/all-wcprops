@@ -1,0 +1,33 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 19
+/svn/joao/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/joao/!svn/ver/1010/projects/Util/trunk
+END
+IRtree.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/joao/!svn/ver/992/projects/Util/trunk/IRtree.properties
+END
+spatio_small.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/joao/!svn/ver/981/projects/Util/trunk/spatio_small.txt
+END
+DIRtree.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/joao/!svn/ver/994/projects/Util/trunk/DIRtree.properties
+END
+rtree.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/joao/!svn/ver/402/projects/Util/trunk/rtree.properties
+END

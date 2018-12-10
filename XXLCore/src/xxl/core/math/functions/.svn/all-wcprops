@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions
+END
+FunctionRealFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/FunctionRealFunction.java
+END
+RealFunctionFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/RealFunctionFunction.java
+END
+RealFunctionArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/RealFunctionArea.java
+END
+SplineCompressedFunctionAggregateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/SplineCompressedFunctionAggregateFunction.java
+END
+AbstractRealFunctionFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/AbstractRealFunctionFunction.java
+END
+Differentiable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/Differentiable.java
+END
+RealFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/RealFunction.java
+END
+AdaptiveAggregationFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/AdaptiveAggregationFunction.java
+END
+Integrable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/Integrable.java
+END
+RealFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/RealFunctions.java
+END
+LinearCombination.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/LinearCombination.java
+END
+AdaptiveWeightFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/math/functions/AdaptiveWeightFunctions.java
+END

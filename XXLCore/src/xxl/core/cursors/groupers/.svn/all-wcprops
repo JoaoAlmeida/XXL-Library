@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/groupers
+END
+Minimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/groupers/Minimator.java
+END
+NestedLoopsGrouper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/groupers/NestedLoopsGrouper.java
+END
+ReplacementSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/groupers/ReplacementSelection.java
+END
+HashGrouper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/groupers/HashGrouper.java
+END
+AggregateGrouper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/groupers/AggregateGrouper.java
+END
+DBScan.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/groupers/DBScan.java
+END
+SortBasedGrouper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/joao/!svn/ver/557/projects/XXLCore/trunk/src/xxl/core/cursors/groupers/SortBasedGrouper.java
+END
